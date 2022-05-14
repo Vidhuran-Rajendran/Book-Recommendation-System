@@ -24,6 +24,8 @@ For Ratings Table:
 * Upper-casing all the alphabets present in the ISBN column.
 * Removal of duplicate entries from the table.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ### 2. Algorithms Implemented:
 #### 2.1 Popularity Based Recommendation :
 
@@ -63,6 +65,8 @@ This system recommends books by calculating similarities in Book Titles. For thi
 #### 2.7 Hybrid Approach (Collaborative+Content) Recommendation
 A hybrid recommendation system was built using the combination of both content-based filtering and collaborative filtering systems. A percentile score is given to the results obtained from both content and collaborative filtering models and is combined to recommend top n books.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 ### 3. Libraries Used:
 
 * ipython-notebook - Python Text Editor
@@ -70,3 +74,22 @@ A hybrid recommendation system was built using the combination of both content-b
 * seaborn, matplotlib - Visualization libraries
 * numpy, scipy- number python library
 * pandas - data handling library
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+# **Conclusion:**
+Recommender systems are a powerful new technology for extracting additional value for a business from its user databases. Recommender systems benefit users by enabling them to find items they like. Conversely, they help the business by generating more sales.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+h2 id="credits"> :scroll: Credits</h2>
+
+< Vidhuran Rajendran > | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vidhuran)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](github.com/Vidhuran-Rajendran)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vidhuran_07)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
